@@ -1,6 +1,6 @@
-import Image from "next/image";
+import Image from 'next/image';
 
-import SteveCalverley from "@/public/images/SteveCalverley.jpg";
+import SteveCalverley from '@/public/images/SteveCalverley.jpg';
 
 export default function Home() {
   return (
