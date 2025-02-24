@@ -19,13 +19,11 @@ export default function Home() {
           </div>
         </div>
         <div>
-          <p className="mt-8 text-gray-500 dark:text-gray-400 max-w-xl">
+          <p className="mt-8 text-gray-500 dark:text-gray-400 max-w-lg">
             Hard-working web developer with a flair for creating elegant
             web-based solutions on time and within budget. I build solutions
-            that elevate experiences and empower businesses. Developed a suite
-            of web applications supporting business objectives to enhance
-            customer experience. Passionate about software architecture and user
-            experience.
+            that elevate experiences and empower businesses. Passionate about
+            software architecture and user experience.
           </p>
         </div>
       </article>
